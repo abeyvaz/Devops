@@ -1,7 +1,5 @@
 # Week 2: Linux System Administration & Automation
 
-Welcome to **Week 2** of the **90 Days of DevOps - 2025 Edition**! This week, we dive into **Linux system administration and automation**, covering essential topics such as **user management, file permissions, log analysis, process control, volume mounts, and shell scripting**.
-
 ---
 
 ## 🚀 Project: DevOps Linux Server Monitoring & Automation
@@ -30,7 +28,6 @@ Imagine you're managing a **Linux-based production server** and need to ensure t
 ---
 
 ### **3️⃣ Log File Analysis with AWK, Grep & Sed**
-Logs are crucial in DevOps! You’ll analyze logs using the **Linux_2k.log** file from **LogHub** ([GitHub Repo](https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log)).
 
 - **Task:**  
   - **Download the log file** from the repository.
