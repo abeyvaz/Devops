@@ -1,4 +1,4 @@
-# Week 2: Linux System Administration & Automation
+# Linux System Administration & Automation
 
 ---
 
@@ -14,7 +14,6 @@ Imagine you're managing a **Linux-based production server** and need to ensure t
 - **Task:**  
   - Create a user `devops_user` and add them to a group `devops_team`.
   - Set a password and grant **sudo** access.
-  - Restrict SSH login for certain users in `/etc/ssh/sshd_config`.
 
 ---
 
