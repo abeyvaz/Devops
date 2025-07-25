@@ -1,10 +1,4 @@
 # Linux System Administration & Automation
-
----
-
-## 🚀 Project: DevOps Linux Server Monitoring & Automation
-Imagine you're managing a **Linux-based production server** and need to ensure that **users, logs, and processes** are well-managed. You will perform real-world tasks such as **log analysis, volume management, and automation** to enhance your DevOps skills.
-
 ---
 
 ## 📌 Tasks
